@@ -1,6 +1,6 @@
-<p align="center">
+<h3 align="center">
     AISA Testing task
-</p>
+</h3>
 
 <details>
   <summary>Table of Contents</summary>
